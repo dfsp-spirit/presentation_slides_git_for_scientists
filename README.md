@@ -9,7 +9,10 @@ This is an in-depth introduction to the version control system Git for scientist
 Please keep in mind:
 
 * The slides are not meant to be used for a workshop, where participants do exercises and actually use git during the presentation. You could of course add exercises.
-* The slides show git via the command line interface (as opposed to some graphical Git client or the integration into a specific IDE), but they focus on git concepts, not commands. The intention is to show scientists what git can do for them, but also be honest about its complexities. Therefore, they show some technical details, though always with the purpose of illustrating how things work in order to enable users to solve typical newcomer problems (e.g., first conflicts, working with undos locally and remotely).
+* The slides show git via the command line interface (as opposed to some graphical Git client or the integration into a specific IDE), but they focus on git concepts, not commands.
+* The intention is to show scientists what git can do for them, but also be honest about its complexities. Therefore, they show some technical details, though always with the purpose of illustrating how things work in order to enable users to solve typical newcomer problems (e.g., first conflicts, working with undos locally and remotely).
+* With the exception of some of the introductory slides, the presentation is not specific to science.
+
 
 ## Thanks, Credits and License
 
