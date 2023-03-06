@@ -28,6 +28,8 @@ The slides are available in the following formats:
 
 Please note that some slides are hidden by default, which is not represented in the PDF version. I would therefore recommend to use the ODP version.
 
+The slides were created with Google Slides, and an [online version](https://docs.google.com/presentation/d/19YNqsmU-QLbw1drxVi0ErdI-KFWEu0g_8MaUfTRgXyc/edit?skip_itp2_check=true#slide=id.g215f91de257_0_149) is also available (link to `docs.google.com`).
+
 
 
 
