@@ -2,7 +2,9 @@
 
 ## Slides for my presentation: 'Introduction to Git for Scientists'
 
-This is an in-depth introduction to the version control system Git for scientists. The slides are designed for a longer talk: expect about 60 to 90 minutes, depending on your presentation speed and the number of questions from the audience.
+![Fig1](./preview_git_introduction_for_scientists_slides.jpg?raw=true "Preview of the presentation slides for 'Introduction to Git for Scientists'.")
+
+This is an in-depth introduction to the version control system Git for scientists. The slides are designed for a longer talk: expect about 60 to 90 minutes, depending on your presentation speed and the number of questions from the audience. You can hide various subsets of slides to shorten the talk.
 
 The slides are not meant to be used for a workshop, where participants do exercises and actually use git during the talk, it's really just a talk.
 
@@ -14,7 +16,7 @@ The slides are mostly based on the great, free book [Pro Git](https://git-scm.co
 
 The slide template is [Technology Pixels](https://www.slidescarnival.com/mowbray-free-presentation-template/1932) by [Slides Carnival](http://www.slidescarnival.com/), published under the CC BY 4.0 license.
 
-Many thanks to the authors for making these great resources available under an Open License!
+Many thanks to the authors for making these great resources available under open licenses.
 
 
 ## Slides
@@ -24,6 +26,8 @@ The slides are available in the following formats:
 * [Introduction to Git for Scientists in Open Office Impress Format (.odp)](./Git_Introduction_for_Scientists.odp)
 * [Introduction to Git for Scientists in Microsoft Office Format (.pptx)](./Git_Introduction_for_Scientists.pptx)
 * [Introduction to Git for Scientists in Portable Document Format (.pdf)](./Git_Introduction_for_Scientists.pdf)
+
+Please note that some slides are hidden by default, which is not represented in the PDF version. I would therefore recommend to use the ODP version.
 
 
 
