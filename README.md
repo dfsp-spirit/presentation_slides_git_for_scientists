@@ -20,7 +20,7 @@ Please keep in mind:
 
 The slides are mostly based on the great, free book [Pro Git](https://git-scm.com/book/) by Scott Chacon and Ben Straub, licensed under the [Creative Commons BY-NC-SA 3.0 license](https://creativecommons.org/licenses/by-nc-sa/3.0/). I consider this work a remix of that book, and as such, the slides are of course available under the same CC BY-NC-SA 3.0 license. See the file [LICENSE](./LICENSE) for the full license text.
 
-The slide template is [Technology Pixels](https://www.slidescarnival.com/mowbray-free-presentation-template/1932) by [Slides Carnival](http://www.slidescarnival.com/), published under the CC BY 4.0 license.
+The slide template is [Technology Pixels](https://www.slidescarnival.com/mowbray-free-presentation-template/1932) by [Jimena Catalina at Slides Carnival](http://www.slidescarnival.com/), published under the CC BY 4.0 license.
 
 Many thanks to the authors for making these great resources available under open licenses.
 
