@@ -4,11 +4,11 @@
 
 ![Fig1](./preview_git_introduction_for_scientists_slides.jpg?raw=true "Preview of the presentation slides for 'Introduction to Git for Scientists'.")
 
-This is an in-depth introduction to the version control system Git for scientists. The slides are designed for a longer talk: expect about 60 to 90 minutes, depending on your presentation speed and the number of questions from the audience. You can hide various subsets of slides to shorten the talk.
+This is an in-depth introduction to the version control system Git for scientists. The slides are designed for a longer talk: expect about 60 to 90 minutes, depending on your presentation speed and the number of questions from the audience. You can hide various subsets of slides to shorten the talk or shift the focus.
 
-The slides are not meant to be used for a workshop, where participants do exercises and actually use git during the talk, it's really just a talk.
+The slides are not meant to be used for a workshop, where participants do exercises and actually use git during the presentation. You could of course add exercises.
 
-It shows git via the command line interface, but it focuses on concepts, not commands. The intention is to show scientists what git can do for them, but also be honest about its complexities. Therefore, they show some technical details, though always with the purpose of illustrating how things work in order to enable users to solve typical newcomer problems (first conflicts, working with undos local and remote) can be solved.
+The slides show git via the command line interface (as opposed to some graphical Git client or a specific IDE), but they focuses on concepts, not commands. The intention is to show scientists what git can do for them, but also be honest about its complexities. Therefore, they show some technical details, though always with the purpose of illustrating how things work in order to enable users to solve typical newcomer problems (e.g., first conflicts, working with undos locally and remotely).
 
 ## Thanks, Credits and License
 
