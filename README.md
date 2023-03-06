@@ -1,16 +1,18 @@
 
 ## Slides for my presentation: 'Introduction to Git for Scientists'
 
-This is an in-depth introduction to the version control system Git for scientists. The slides are designed for a longer talk: expect about 60 to 90 minutes, depending on your presentation speed and the number of questions from the audience. You can hide various subsets of slides to shorten the talk or shift the focus.
+This is an in-depth introduction to the version control system Git for scientists.
+
+The slides are designed for a longer talk: expect about 60 to 90 minutes, depending on your presentation speed and the number of questions from the audience. You can hide various subsets of slides to shorten the talk or shift the focus.
 
 ![Fig1](./preview_git_introduction_for_scientists_slides.jpg?raw=true "Preview of the presentation slides for 'Introduction to Git for Scientists'.")
 *Fig. 1: Preview of the slides in the Open Office.org Slide Sorter view (screenshot).*
 
 Please keep in mind:
 
-* The slides are not meant to be used for a workshop, where participants do exercises and actually use git during the presentation. You could of course add exercises.
+* In the current form, the slides are meant for a talk, not for an interactive workshop, where participants do exercises and actually use git. You could of course adapt the slides for a workshop format and add exercises.
 * The slides show git via the command line interface (as opposed to some graphical Git client or the integration into a specific IDE), but they focus on git concepts, not commands.
-* The intention is to show scientists what git can do for them, but also be honest about its complexities. Therefore, they show some technical details, though always with the purpose of illustrating how things work in order to enable users to solve typical newcomer problems (e.g., first conflicts, working with undos locally and remotely).
+* The intention is to show scientists what git can do for them, but also be honest about its complexities. Therefore, the slides show quite a bit of technical details, though always with the purpose of illustrating how things work in order to enable users to solve typical newcomer problems (e.g., first conflicts, working with undos locally and remotely). In my opinion, users who are put off by some technical details will most likely not be happy with using git. So hiding all technical details during the talk or oversimplifying git is not a good idea, and will leave them with the wrong impression.
 * With the exception of some of the introductory slides, the presentation is not specific to science.
 
 
