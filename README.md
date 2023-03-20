@@ -1,7 +1,7 @@
 
 ## Slides for my presentation: 'Introduction to Git for Scientists'
 
-This is an in-depth introduction to the version control system Git for scientists.
+This is an in-depth introduction to the [version control system Git](https://git-scm.com/) for scientists.
 
 The slides are designed for a longer talk: expect about 60 to 90 minutes, depending on your presentation speed and the number of questions from the audience. You can hide various subsets of slides to shorten the talk or shift the focus.
 
